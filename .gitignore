@@ -1,0 +1,8 @@
+# Compiler output
+*.o
+*.bin
+*.iso
+
+# Rust
+target
+Cargo.lock
